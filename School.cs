@@ -28,6 +28,7 @@ namespace SchoolStudentMarks.Models
         {
             foreach (Student currentStudentInList in listOfStudents) {
               Console.WriteLine(currentStudentInList.ToString());
+              currentStudentInList.DisplaySubjects();
             }
         }
     }

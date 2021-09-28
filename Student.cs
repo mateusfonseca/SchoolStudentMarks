@@ -10,6 +10,8 @@ namespace SchoolStudentMarks.Models
     {
         public string Name { get; set; }
 
+        public List<Subject> listOfSubjects = new List<Subject>();
+
         public Student(string _name)
         {
             Name = _name;
@@ -18,6 +20,13 @@ namespace SchoolStudentMarks.Models
         public override string ToString()
         {
             return $"Student is {Name}.";
+        }
+
+        public void DisplaySubjects()
+        {
+            foreach (Subject currentSubject in listOfSubjects) {
+                Console.WriteLine($"\t\t{currentSubject.Name} : {currentSubject.Marks} : {currentSubject.PassingScore} : {currentSubject.IsPassed()}");
+            }
         }
     }
 }
