@@ -1,0 +1,16 @@
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/obj/Debug/net5.0/SchoolStudentMarks.csproj.AssemblyReference.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/obj/Debug/net5.0/SchoolStudentMarks.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/obj/Debug/net5.0/SchoolStudentMarks.AssemblyInfoInputs.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/obj/Debug/net5.0/SchoolStudentMarks.AssemblyInfo.cs
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/obj/Debug/net5.0/SchoolStudentMarks.csproj.CoreCompileInputs.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/bin/Debug/net5.0/SchoolStudentMarks
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/bin/Debug/net5.0/SchoolStudentMarks.deps.json
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/bin/Debug/net5.0/SchoolStudentMarks.runtimeconfig.json
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/bin/Debug/net5.0/SchoolStudentMarks.runtimeconfig.dev.json
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/bin/Debug/net5.0/SchoolStudentMarks.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/bin/Debug/net5.0/ref/SchoolStudentMarks.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/bin/Debug/net5.0/SchoolStudentMarks.pdb
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/obj/Debug/net5.0/SchoolStudentMarks.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/obj/Debug/net5.0/ref/SchoolStudentMarks.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/obj/Debug/net5.0/SchoolStudentMarks.pdb
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/SchoolStudentMarks/obj/Debug/net5.0/SchoolStudentMarks.genruntimeconfig.cache
